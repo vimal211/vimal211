@@ -1,5 +1,5 @@
 <h1>Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>Hi, I'm Vimal, a passionate frontend web developer</h3>
+<h3>Hi, I'm Vimal, a passionate Frontend developer</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
