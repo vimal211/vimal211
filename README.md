@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **vimalnavee2110@gmail.com**
 
-- 🎮 **Im a casual gamer**
+- 🎮 I'm a **casual gamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
